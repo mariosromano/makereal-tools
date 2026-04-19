@@ -62,7 +62,7 @@ export const ALL_TOOLS: Tool[] = [
     materialLabel: "3form · Translucent Acrylic",
     accent: "#6db7b2",
     image: "/tools/triangular.png",
-    href: "https://triangular-wall-maker-9mryo2o14-mario-s-projects-4f51649b.vercel.app",
+    href: "https://triangular-wall-maker.vercel.app",
     kind: "fab",
   },
   {
@@ -75,7 +75,7 @@ export const ALL_TOOLS: Tool[] = [
     materialLabel: "MDF · Wood Laminate",
     accent: "#b8926a",
     image: "/tools/voronoi.png",
-    href: "https://voronoi-cnc-panel-60zxg29ms-mario-s-projects-4f51649b.vercel.app",
+    href: "https://voronoi-cnc-panel.vercel.app",
     kind: "fab",
   },
   {
