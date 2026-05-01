@@ -23,7 +23,7 @@ export const ALL_TOOLS: Tool[] = [
     materialLabel: "Solid Surface · Corian",
     accent: "#e8e2d6",
     image: "/tools/rib.png",
-    href: "https://rib-maker.vercel.app/",
+    href: "https://ribmaker-app.vercel.app/",
     kind: "fab",
   },
   {
